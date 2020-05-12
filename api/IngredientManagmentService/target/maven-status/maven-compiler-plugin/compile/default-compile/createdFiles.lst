@@ -1,0 +1,5 @@
+com\IngredientManagement\dao\IngredientRepository.class
+com\IngredientManagement\service\IngredientService.class
+com\IngredientManagement\IngredientManagementServiceApplication.class
+com\IngredientManagement\model\Ingredients.class
+com\IngredientManagement\api\IngredientController.class

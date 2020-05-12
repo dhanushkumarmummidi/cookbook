@@ -1,0 +1,5 @@
+com\RecipeManagement\model\Recipe.class
+com\RecipeManagement\api\RecipeController.class
+com\RecipeManagement\RecipeManagementSystemApplication.class
+com\RecipeManagement\dao\RecipeRepository.class
+com\RecipeManagement\service\RecipeService.class

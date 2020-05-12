@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nsandela
+Build-Jdk: 12.0.1
+Implementation-Title: spring-cloud-zuul-gateway
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tutorialspoint
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-cloud-zuul-gateway-2
+Created-By: Maven Integration for Eclipse
+
