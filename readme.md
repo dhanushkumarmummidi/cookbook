@@ -43,12 +43,13 @@ Contributer Team :
 * frontend
 	* Sukhpreet Singh
 	* Navya Sandela
-  * Sharanpreet Kaur
-  * Ravi Shankar
-  * Jaydish Patel
- * Android
-  * Chandra Shekar Reddy
-  * Karthik Manchikanti
+  	* Sharanpreet Kaur
+ 	 * Ravi Shankar
+ 	 * Jaydish Patel
+ 	 * Chandra Shekar Reddy
+ 	 * Karthik Manchikanti
+ * Deployment & Integration
+        *DhanushKumar Mummidi
 
 
 ## License
