@@ -13,7 +13,7 @@
 
 
 ## Installation
-clone project using git https://github.com/dhanushkumarmummidi/medciti.git
+clone project using git https://github.com/dhanushkumarmummidi/cookbook.git
 
 
 ## Docker + React App + API Express + MySQL
